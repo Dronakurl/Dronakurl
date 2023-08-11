@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dronakurl
-- 👀 I’m interested in data science and machine learning tricks with python
+- 👀 I’m interested in new python tricks
 - 🌱 I’m currently learning the basics with hobby projects 
 - 💞️ I’m looking to collaborate on development tricks
 - 📫 How to reach me: send me a message on this platform
