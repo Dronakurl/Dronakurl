@@ -2,7 +2,7 @@
 
 - 🐍 Python enthusiast. 
 - 🌱 Learning the ropes through fun hobby projects.
-- 📫 [Message me on Discord](https://discord.com/users/dronakurl).
+- 📫 [Message me on Discord @dronakurl](https://discord.com/users/dronakurl).
 
 <!---
 Dronakurl/Dronakurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
