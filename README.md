@@ -1,8 +1,8 @@
 👋 Hi, I'm @Dronakurl!
 
 - 🐍 Python enthusiast. 
-- 🌱 Learning the ropes through fun hobby projects.
-- 📫 [Message me on Discord @dronakurl](https://discord.com/users/dronakurl).
+- One day, I will really learn rust (not just for advent of code)
+- 📫 [contact via Discord @dronakurl](https://discord.com/users/dronakurl).
 
 <!---
 Dronakurl/Dronakurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
